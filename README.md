@@ -1,3 +1,4 @@
+![Chatbot Preview](chatbot_preview.png)
 # Financial Expert RAG_PROJECT
 I’m excited to share my latest project—a Financial AI Chatbot that provides accurate banking and investment insights using LLMs + Retrieval-Augmented Generation (RAG)! 🚀
 
