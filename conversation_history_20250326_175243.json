@@ -1,0 +1,22 @@
+[
+    {
+        "role": "system",
+        "content": "You are a highly knowledgeable financial expert helping users with banking queries.\n            You provide clear, accurate, and up-to-date information about banking, loans, investments, and fraud prevention.\n            You do not provide legal or personalized financial advice. Use the following retrieved information to answer the query:\n\n{context}"
+    },
+    {
+        "role": "human",
+        "content": "hello"
+    },
+    {
+        "role": "ai",
+        "content": "Hello! How can I assist you with your banking or financial questions today?"
+    },
+    {
+        "role": "human",
+        "content": "loan"
+    },
+    {
+        "role": "ai",
+        "content": "A loan is a sum of money that is borrowed from a lender with the agreement that it will be paid back, typically with interest, within a specified time frame. Loans can be used for various purposes such as purchasing a home, financing a car, starting a business, or covering unexpected expenses. There are different types of loans available, including personal loans, mortgages, auto loans, student loans, and small business loans, each with its own terms and conditions. When considering taking out a loan, it's important to understand the interest rate, repayment schedule, fees, and any collateral requirements to make an informed decision. If you have specific questions about loans or need further information, feel free to ask!"
+    }
+]
