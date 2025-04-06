@@ -1,1 +1,1 @@
-# RAG_PROJECT
+# Financial Expert RAG_PROJECT
